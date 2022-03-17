@@ -1,3 +1,0 @@
-Hello
-cred test
-test nach einmaliger Eingabe
