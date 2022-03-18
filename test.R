@@ -1,4 +1,5 @@
 library(readr)
+setwd("/home/epvoteadmin/cc_production/")
 
 d <- rnorm(100)
 
