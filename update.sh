@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo date >> /home/epvoteadmin/cc_production/test.txt
+echo "Hi, today is $(date)" >> /home/epvoteadmin/cc_production/test.txt
 
 cd /home/epvoteadmin/cc_production/
 git add .
