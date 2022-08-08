@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Hi, it is now $(date)" >> /home/ubuntu/gp_production/log.txt
+echo "Hi, it is now $(date)" >> /home/ubuntu/cc_production/log.txt
 
-cd /home/ubuntu/gp_production/
+cd /home/ubuntu/cc_production/
 git add .
 git commit -m "autocommit"
 git push origin main
